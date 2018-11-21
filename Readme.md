@@ -1,7 +1,7 @@
 # Личный проект «Пиксель хантер» [![Build status][travis-image]][travis-url]
 
 * Студент: [Леонид Шутов](https://up.htmlacademy.ru/ecmascript/7/user/804163).
-* Наставник: `Неизвестно`.
+* Наставник: [Денис Корнейчук](https://htmlacademy.ru/profile/id70618).
 
 ---
 
